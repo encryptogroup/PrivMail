@@ -1,0 +1,6 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# User files
+config.yaml
+destination_address_map.yaml
