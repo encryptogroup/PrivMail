@@ -130,3 +130,7 @@ Note that in order to build the binary, you need to install the MOTION library o
 ## Disclaimer
 
 This code is provided as a experimental implementation for testing purposes and should not be used in a productive environment. We cannot guarantee security and correctness.
+
+## Acknowledgements
+
+We thank Toni Nguyen for helping to develop the Python based building blocks and Martin Bach, Jan Filipp, and Tamino Goldan for developing the basis of the Thunderbird Plugin.
